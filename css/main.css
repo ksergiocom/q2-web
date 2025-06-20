@@ -265,17 +265,19 @@ body {
 .producto-item .producto-item-content {
   height: 60%;
   position: relative;
-  bottom: -67%;
+  bottom: -20%;
   background-color: #222222;
   width: 100%;
   border-radius: 0px 0px 10px 10px;
   transition: bottom linear 0.2s;
 }
 
-.producto-item .producto-item-content:hover {
+.producto-item:hover .producto-item-content {
   cursor: pointer;
-  bottom: -20%;
+  bottom: -67%;
 }
+
+
 
 .producto-item .producto-item-content * {
   padding: 5px 5px 10px 5px;
