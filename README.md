@@ -1,1 +1,3 @@
-# Proyecto Q2 Web
+# Q2 Web
+
+Web estática para Plásticos Khudos S.L.

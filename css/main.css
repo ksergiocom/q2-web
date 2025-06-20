@@ -470,12 +470,26 @@ body {
 
 .subvencion-container img {
   width: 80%;
+  margin: 2rem 0;
 }
 
 .subvencion-container p {
   font-size: small;
   color: #222222;
   width: 80%;
+}
+
+.subvencion-proyecto{
+  padding: 1rem;
+  width: 80%;
+  color: #222222;
+  border: 1px solid #cecece;
+  margin: 1rem 0;
+}
+
+.subvencion-proyecto *{
+  margin-bottom: 0.3rem;
+  color: #222222;
 }
 
 /* Subvenciones End */
