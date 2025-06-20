@@ -1,0 +1,21 @@
+.msg-error{
+    position: absolute;
+    margin: auto;
+    margin-bottom: auto;
+    left: 0;
+    right: 0;
+    top: 30%;
+    text-align: center;
+}
+
+.msg-error > *{
+    margin-bottom: 10px;
+}
+
+.msg-error i{
+    font-size: 50px;
+}
+
+.msg-error p{
+    margin-bottom:  50px;
+}
